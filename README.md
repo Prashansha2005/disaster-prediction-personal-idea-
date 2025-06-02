@@ -68,7 +68,7 @@ Current systems are reactive, not predictive.
 
 ## ✍️ Credits
 
-Idea developed and led by: **[Your Name Here]**  
+Idea developed and led by: **Prashansha Rawat**  
 Originated during a university hackathon (Year 1, 2025).  
 Private and time-stamped for academic and innovation integrity.
 
